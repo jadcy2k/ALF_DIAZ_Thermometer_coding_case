@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1699376462288" clover="3.2.0">
+  <project timestamp="1699376462289" name="All files">
+    <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="15" coveredelements="15" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
+    <file name="Thermometer.tsx" path="/Users/jdiaz1/Sites/sandbox-alf/ALF_DIAZ_Thermometer_coding_case/src/components/Thermometer/Thermometer.tsx">
+      <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="55" count="1" type="stmt"/>
+      <line num="64" count="1" type="stmt"/>
+      <line num="68" count="1" type="stmt"/>
+      <line num="76" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
